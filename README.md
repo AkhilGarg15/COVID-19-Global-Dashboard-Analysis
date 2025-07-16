@@ -45,7 +45,7 @@ This project is an **interactive Power BI dashboard** that visualizes global COV
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./Dashboard.png)
 
 ---
 
